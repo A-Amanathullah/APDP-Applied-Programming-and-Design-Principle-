@@ -18,3 +18,7 @@ class ICSV_data_injector(IData_injection):
     with open (path,"r") as c:
       csv_data = json.load(c)
       return csv_data
+    
+
+class Factory():
+  pass

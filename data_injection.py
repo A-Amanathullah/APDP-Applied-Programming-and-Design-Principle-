@@ -22,3 +22,6 @@ class ICSV_data_injector(IData_injection):
 
 class Factory():
   pass
+
+class Factor_ff():
+  pass
